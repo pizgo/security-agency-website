@@ -1,3 +1,7 @@
 export default function Home() {
-  return <main className="bg-red-700 text-white"></main>;
+  return (
+    <>
+      <h1 className="text-red-500">test</h1>
+    </>
+  );
 }
